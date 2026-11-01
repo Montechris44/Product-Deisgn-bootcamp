@@ -60,3 +60,4 @@ No build steps, package managers, or server installations required!
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
